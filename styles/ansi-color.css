@@ -1,0 +1,2057 @@
+.rundeck {
+    background-color: #2f4f4f;
+    color: #fff8dc;
+    box-sizing: border-box;
+    border-style: none none dotted none;
+    border-width: 1px;
+    border-color: #274242;
+}
+
+.rundeck .ansicolor-on .ansi-fg-black {
+    color: #000
+}
+
+.rundeck .ansicolor-on .ansi-fg-green {
+    color: green
+}
+
+.rundeck .ansicolor-on .ansi-fg-red {
+    color: red
+}
+
+.rundeck .ansicolor-on .ansi-fg-yellow {
+    color: #990
+}
+
+.rundeck .ansicolor-on .ansi-fg-blue {
+    color: #00f
+}
+
+.rundeck .ansicolor-on .ansi-fg-magenta {
+    color: #f0f
+}
+
+.rundeck .ansicolor-on .ansi-fg-cyan {
+    color: #099
+}
+
+.rundeck .ansicolor-on .ansi-fg-white {
+    color: #ccc
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-0 {
+    color: #000
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-0 {
+    background-color: #000
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-1 {
+    color: #0b0b0b
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-1 {
+    background-color: #0b0b0b
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-2 {
+    color: #151515
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-2 {
+    background-color: #151515
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-3 {
+    color: #202020
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-3 {
+    background-color: #202020
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-4 {
+    color: #2b2b2b
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-4 {
+    background-color: #2b2b2b
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-5 {
+    color: #353535
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-5 {
+    background-color: #353535
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-6 {
+    color: #404040
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-6 {
+    background-color: #404040
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-7 {
+    color: #4a4a4a
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-7 {
+    background-color: #4a4a4a
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-8 {
+    color: #555
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-8 {
+    background-color: #555
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-9 {
+    color: #606060
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-9 {
+    background-color: #606060
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-10 {
+    color: #6a6a6a
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-10 {
+    background-color: #6a6a6a
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-11 {
+    color: #757575
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-11 {
+    background-color: #757575
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-12 {
+    color: grey
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-12 {
+    background-color: grey
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-13 {
+    color: #8a8a8a
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-13 {
+    background-color: #8a8a8a
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-14 {
+    color: #959595
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-14 {
+    background-color: #959595
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-15 {
+    color: #9f9f9f
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-15 {
+    background-color: #9f9f9f
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-16 {
+    color: #aaa
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-16 {
+    background-color: #aaa
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-17 {
+    color: #b5b5b5
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-17 {
+    background-color: #b5b5b5
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-18 {
+    color: #bfbfbf
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-18 {
+    background-color: #bfbfbf
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-19 {
+    color: #cacaca
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-19 {
+    background-color: #cacaca
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-20 {
+    color: #d5d5d5
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-20 {
+    background-color: #d5d5d5
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-21 {
+    color: #dfdfdf
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-21 {
+    background-color: #dfdfdf
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-22 {
+    color: #eaeaea
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-22 {
+    background-color: #eaeaea
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-23 {
+    color: #f4f4f4
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-23 {
+    background-color: #f4f4f4
+}
+
+.rundeck .ansicolor-on .ansi-fg-gray-24 {
+    color: #fff
+}
+
+.rundeck .ansicolor-on .ansi-bg-gray-24 {
+    background-color: #fff
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-0-0 {
+    color: #000
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-0-0 {
+    background-color: #000
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-1-0 {
+    color: #030
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-1-0 {
+    background-color: #030
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-2-0 {
+    color: #060
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-2-0 {
+    background-color: #060
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-3-0 {
+    color: #090
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-3-0 {
+    background-color: #090
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-4-0 {
+    color: #0c0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-4-0 {
+    background-color: #0c0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-5-0 {
+    color: #0f0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-5-0 {
+    background-color: #0f0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-0-1 {
+    color: #003
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-0-1 {
+    background-color: #003
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-1-1 {
+    color: #033
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-1-1 {
+    background-color: #033
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-2-1 {
+    color: #063
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-2-1 {
+    background-color: #063
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-3-1 {
+    color: #093
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-3-1 {
+    background-color: #093
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-4-1 {
+    color: #0c3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-4-1 {
+    background-color: #0c3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-5-1 {
+    color: #0f3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-5-1 {
+    background-color: #0f3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-0-2 {
+    color: #006
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-0-2 {
+    background-color: #006
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-1-2 {
+    color: #036
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-1-2 {
+    background-color: #036
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-2-2 {
+    color: #066
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-2-2 {
+    background-color: #066
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-3-2 {
+    color: #096
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-3-2 {
+    background-color: #096
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-4-2 {
+    color: #0c6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-4-2 {
+    background-color: #0c6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-5-2 {
+    color: #0f6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-5-2 {
+    background-color: #0f6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-0-3 {
+    color: #009
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-0-3 {
+    background-color: #009
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-1-3 {
+    color: #039
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-1-3 {
+    background-color: #039
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-2-3 {
+    color: #069
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-2-3 {
+    background-color: #069
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-3-3 {
+    color: #099
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-3-3 {
+    background-color: #099
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-4-3 {
+    color: #0c9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-4-3 {
+    background-color: #0c9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-5-3 {
+    color: #0f9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-5-3 {
+    background-color: #0f9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-0-4 {
+    color: #00c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-0-4 {
+    background-color: #00c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-1-4 {
+    color: #03c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-1-4 {
+    background-color: #03c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-2-4 {
+    color: #06c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-2-4 {
+    background-color: #06c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-3-4 {
+    color: #09c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-3-4 {
+    background-color: #09c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-4-4 {
+    color: #0cc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-4-4 {
+    background-color: #0cc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-5-4 {
+    color: #0fc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-5-4 {
+    background-color: #0fc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-0-5 {
+    color: #00f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-0-5 {
+    background-color: #00f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-1-5 {
+    color: #03f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-1-5 {
+    background-color: #03f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-2-5 {
+    color: #06f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-2-5 {
+    background-color: #06f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-3-5 {
+    color: #09f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-3-5 {
+    background-color: #09f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-4-5 {
+    color: #0cf
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-4-5 {
+    background-color: #0cf
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-0-5-5 {
+    color: #0ff
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-0-5-5 {
+    background-color: #0ff
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-0-0 {
+    color: #300
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-0-0 {
+    background-color: #300
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-1-0 {
+    color: #330
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-1-0 {
+    background-color: #330
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-2-0 {
+    color: #360
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-2-0 {
+    background-color: #360
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-3-0 {
+    color: #390
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-3-0 {
+    background-color: #390
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-4-0 {
+    color: #3c0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-4-0 {
+    background-color: #3c0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-5-0 {
+    color: #3f0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-5-0 {
+    background-color: #3f0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-0-1 {
+    color: #303
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-0-1 {
+    background-color: #303
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-1-1 {
+    color: #333
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-1-1 {
+    background-color: #333
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-2-1 {
+    color: #363
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-2-1 {
+    background-color: #363
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-3-1 {
+    color: #393
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-3-1 {
+    background-color: #393
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-4-1 {
+    color: #3c3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-4-1 {
+    background-color: #3c3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-5-1 {
+    color: #3f3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-5-1 {
+    background-color: #3f3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-0-2 {
+    color: #306
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-0-2 {
+    background-color: #306
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-1-2 {
+    color: #336
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-1-2 {
+    background-color: #336
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-2-2 {
+    color: #366
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-2-2 {
+    background-color: #366
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-3-2 {
+    color: #396
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-3-2 {
+    background-color: #396
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-4-2 {
+    color: #3c6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-4-2 {
+    background-color: #3c6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-5-2 {
+    color: #3f6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-5-2 {
+    background-color: #3f6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-0-3 {
+    color: #309
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-0-3 {
+    background-color: #309
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-1-3 {
+    color: #339
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-1-3 {
+    background-color: #339
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-2-3 {
+    color: #369
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-2-3 {
+    background-color: #369
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-3-3 {
+    color: #399
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-3-3 {
+    background-color: #399
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-4-3 {
+    color: #3c9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-4-3 {
+    background-color: #3c9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-5-3 {
+    color: #3f9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-5-3 {
+    background-color: #3f9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-0-4 {
+    color: #30c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-0-4 {
+    background-color: #30c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-1-4 {
+    color: #33c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-1-4 {
+    background-color: #33c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-2-4 {
+    color: #36c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-2-4 {
+    background-color: #36c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-3-4 {
+    color: #39c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-3-4 {
+    background-color: #39c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-4-4 {
+    color: #3cc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-4-4 {
+    background-color: #3cc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-5-4 {
+    color: #3fc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-5-4 {
+    background-color: #3fc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-0-5 {
+    color: #30f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-0-5 {
+    background-color: #30f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-1-5 {
+    color: #33f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-1-5 {
+    background-color: #33f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-2-5 {
+    color: #36f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-2-5 {
+    background-color: #36f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-3-5 {
+    color: #39f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-3-5 {
+    background-color: #39f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-4-5 {
+    color: #3cf
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-4-5 {
+    background-color: #3cf
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-1-5-5 {
+    color: #3ff
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-1-5-5 {
+    background-color: #3ff
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-0-0 {
+    color: #600
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-0-0 {
+    background-color: #600
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-1-0 {
+    color: #630
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-1-0 {
+    background-color: #630
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-2-0 {
+    color: #660
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-2-0 {
+    background-color: #660
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-3-0 {
+    color: #690
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-3-0 {
+    background-color: #690
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-4-0 {
+    color: #6c0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-4-0 {
+    background-color: #6c0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-5-0 {
+    color: #6f0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-5-0 {
+    background-color: #6f0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-0-1 {
+    color: #603
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-0-1 {
+    background-color: #603
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-1-1 {
+    color: #633
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-1-1 {
+    background-color: #633
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-2-1 {
+    color: #663
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-2-1 {
+    background-color: #663
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-3-1 {
+    color: #693
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-3-1 {
+    background-color: #693
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-4-1 {
+    color: #6c3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-4-1 {
+    background-color: #6c3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-5-1 {
+    color: #6f3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-5-1 {
+    background-color: #6f3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-0-2 {
+    color: #606
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-0-2 {
+    background-color: #606
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-1-2 {
+    color: #636
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-1-2 {
+    background-color: #636
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-2-2 {
+    color: #666
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-2-2 {
+    background-color: #666
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-3-2 {
+    color: #696
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-3-2 {
+    background-color: #696
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-4-2 {
+    color: #6c6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-4-2 {
+    background-color: #6c6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-5-2 {
+    color: #6f6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-5-2 {
+    background-color: #6f6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-0-3 {
+    color: #609
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-0-3 {
+    background-color: #609
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-1-3 {
+    color: #639
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-1-3 {
+    background-color: #639
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-2-3 {
+    color: #669
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-2-3 {
+    background-color: #669
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-3-3 {
+    color: #699
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-3-3 {
+    background-color: #699
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-4-3 {
+    color: #6c9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-4-3 {
+    background-color: #6c9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-5-3 {
+    color: #6f9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-5-3 {
+    background-color: #6f9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-0-4 {
+    color: #60c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-0-4 {
+    background-color: #60c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-1-4 {
+    color: #63c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-1-4 {
+    background-color: #63c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-2-4 {
+    color: #66c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-2-4 {
+    background-color: #66c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-3-4 {
+    color: #69c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-3-4 {
+    background-color: #69c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-4-4 {
+    color: #6cc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-4-4 {
+    background-color: #6cc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-5-4 {
+    color: #6fc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-5-4 {
+    background-color: #6fc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-0-5 {
+    color: #60f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-0-5 {
+    background-color: #60f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-1-5 {
+    color: #63f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-1-5 {
+    background-color: #63f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-2-5 {
+    color: #66f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-2-5 {
+    background-color: #66f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-3-5 {
+    color: #69f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-3-5 {
+    background-color: #69f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-4-5 {
+    color: #6cf
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-4-5 {
+    background-color: #6cf
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-2-5-5 {
+    color: #6ff
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-2-5-5 {
+    background-color: #6ff
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-0-0 {
+    color: #900
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-0-0 {
+    background-color: #900
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-1-0 {
+    color: #930
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-1-0 {
+    background-color: #930
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-2-0 {
+    color: #960
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-2-0 {
+    background-color: #960
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-3-0 {
+    color: #990
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-3-0 {
+    background-color: #990
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-4-0 {
+    color: #9c0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-4-0 {
+    background-color: #9c0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-5-0 {
+    color: #9f0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-5-0 {
+    background-color: #9f0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-0-1 {
+    color: #903
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-0-1 {
+    background-color: #903
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-1-1 {
+    color: #933
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-1-1 {
+    background-color: #933
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-2-1 {
+    color: #963
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-2-1 {
+    background-color: #963
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-3-1 {
+    color: #993
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-3-1 {
+    background-color: #993
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-4-1 {
+    color: #9c3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-4-1 {
+    background-color: #9c3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-5-1 {
+    color: #9f3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-5-1 {
+    background-color: #9f3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-0-2 {
+    color: #906
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-0-2 {
+    background-color: #906
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-1-2 {
+    color: #936
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-1-2 {
+    background-color: #936
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-2-2 {
+    color: #966
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-2-2 {
+    background-color: #966
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-3-2 {
+    color: #996
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-3-2 {
+    background-color: #996
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-4-2 {
+    color: #9c6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-4-2 {
+    background-color: #9c6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-5-2 {
+    color: #9f6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-5-2 {
+    background-color: #9f6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-0-3 {
+    color: #909
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-0-3 {
+    background-color: #909
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-1-3 {
+    color: #939
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-1-3 {
+    background-color: #939
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-2-3 {
+    color: #969
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-2-3 {
+    background-color: #969
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-3-3 {
+    color: #999
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-3-3 {
+    background-color: #999
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-4-3 {
+    color: #9c9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-4-3 {
+    background-color: #9c9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-5-3 {
+    color: #9f9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-5-3 {
+    background-color: #9f9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-0-4 {
+    color: #90c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-0-4 {
+    background-color: #90c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-1-4 {
+    color: #93c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-1-4 {
+    background-color: #93c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-2-4 {
+    color: #96c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-2-4 {
+    background-color: #96c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-3-4 {
+    color: #99c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-3-4 {
+    background-color: #99c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-4-4 {
+    color: #9cc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-4-4 {
+    background-color: #9cc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-5-4 {
+    color: #9fc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-5-4 {
+    background-color: #9fc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-0-5 {
+    color: #90f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-0-5 {
+    background-color: #90f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-1-5 {
+    color: #93f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-1-5 {
+    background-color: #93f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-2-5 {
+    color: #96f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-2-5 {
+    background-color: #96f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-3-5 {
+    color: #99f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-3-5 {
+    background-color: #99f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-4-5 {
+    color: #9cf
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-4-5 {
+    background-color: #9cf
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-3-5-5 {
+    color: #9ff
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-3-5-5 {
+    background-color: #9ff
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-0-0 {
+    color: #c00
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-0-0 {
+    background-color: #c00
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-1-0 {
+    color: #c30
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-1-0 {
+    background-color: #c30
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-2-0 {
+    color: #c60
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-2-0 {
+    background-color: #c60
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-3-0 {
+    color: #c90
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-3-0 {
+    background-color: #c90
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-4-0 {
+    color: #cc0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-4-0 {
+    background-color: #cc0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-5-0 {
+    color: #cf0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-5-0 {
+    background-color: #cf0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-0-1 {
+    color: #c03
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-0-1 {
+    background-color: #c03
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-1-1 {
+    color: #c33
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-1-1 {
+    background-color: #c33
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-2-1 {
+    color: #c63
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-2-1 {
+    background-color: #c63
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-3-1 {
+    color: #c93
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-3-1 {
+    background-color: #c93
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-4-1 {
+    color: #cc3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-4-1 {
+    background-color: #cc3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-5-1 {
+    color: #cf3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-5-1 {
+    background-color: #cf3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-0-2 {
+    color: #c06
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-0-2 {
+    background-color: #c06
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-1-2 {
+    color: #c36
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-1-2 {
+    background-color: #c36
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-2-2 {
+    color: #c66
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-2-2 {
+    background-color: #c66
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-3-2 {
+    color: #c96
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-3-2 {
+    background-color: #c96
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-4-2 {
+    color: #cc6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-4-2 {
+    background-color: #cc6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-5-2 {
+    color: #cf6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-5-2 {
+    background-color: #cf6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-0-3 {
+    color: #c09
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-0-3 {
+    background-color: #c09
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-1-3 {
+    color: #c39
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-1-3 {
+    background-color: #c39
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-2-3 {
+    color: #c69
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-2-3 {
+    background-color: #c69
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-3-3 {
+    color: #c99
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-3-3 {
+    background-color: #c99
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-4-3 {
+    color: #cc9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-4-3 {
+    background-color: #cc9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-5-3 {
+    color: #cf9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-5-3 {
+    background-color: #cf9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-0-4 {
+    color: #c0c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-0-4 {
+    background-color: #c0c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-1-4 {
+    color: #c3c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-1-4 {
+    background-color: #c3c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-2-4 {
+    color: #c6c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-2-4 {
+    background-color: #c6c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-3-4 {
+    color: #c9c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-3-4 {
+    background-color: #c9c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-4-4 {
+    color: #ccc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-4-4 {
+    background-color: #ccc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-5-4 {
+    color: #cfc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-5-4 {
+    background-color: #cfc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-0-5 {
+    color: #c0f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-0-5 {
+    background-color: #c0f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-1-5 {
+    color: #c3f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-1-5 {
+    background-color: #c3f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-2-5 {
+    color: #c6f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-2-5 {
+    background-color: #c6f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-3-5 {
+    color: #c9f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-3-5 {
+    background-color: #c9f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-4-5 {
+    color: #ccf
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-4-5 {
+    background-color: #ccf
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-4-5-5 {
+    color: #cff
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-4-5-5 {
+    background-color: #cff
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-0-0 {
+    color: red
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-0-0 {
+    background-color: red
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-1-0 {
+    color: #f30
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-1-0 {
+    background-color: #f30
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-2-0 {
+    color: #f60
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-2-0 {
+    background-color: #f60
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-3-0 {
+    color: #f90
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-3-0 {
+    background-color: #f90
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-4-0 {
+    color: #fc0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-4-0 {
+    background-color: #fc0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-5-0 {
+    color: #ff0
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-5-0 {
+    background-color: #ff0
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-0-1 {
+    color: #f03
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-0-1 {
+    background-color: #f03
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-1-1 {
+    color: #f33
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-1-1 {
+    background-color: #f33
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-2-1 {
+    color: #f63
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-2-1 {
+    background-color: #f63
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-3-1 {
+    color: #f93
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-3-1 {
+    background-color: #f93
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-4-1 {
+    color: #fc3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-4-1 {
+    background-color: #fc3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-5-1 {
+    color: #ff3
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-5-1 {
+    background-color: #ff3
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-0-2 {
+    color: #f06
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-0-2 {
+    background-color: #f06
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-1-2 {
+    color: #f36
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-1-2 {
+    background-color: #f36
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-2-2 {
+    color: #f66
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-2-2 {
+    background-color: #f66
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-3-2 {
+    color: #f96
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-3-2 {
+    background-color: #f96
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-4-2 {
+    color: #fc6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-4-2 {
+    background-color: #fc6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-5-2 {
+    color: #ff6
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-5-2 {
+    background-color: #ff6
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-0-3 {
+    color: #f09
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-0-3 {
+    background-color: #f09
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-1-3 {
+    color: #f39
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-1-3 {
+    background-color: #f39
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-2-3 {
+    color: #f69
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-2-3 {
+    background-color: #f69
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-3-3 {
+    color: #f99
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-3-3 {
+    background-color: #f99
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-4-3 {
+    color: #fc9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-4-3 {
+    background-color: #fc9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-5-3 {
+    color: #ff9
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-5-3 {
+    background-color: #ff9
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-0-4 {
+    color: #f0c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-0-4 {
+    background-color: #f0c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-1-4 {
+    color: #f3c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-1-4 {
+    background-color: #f3c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-2-4 {
+    color: #f6c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-2-4 {
+    background-color: #f6c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-3-4 {
+    color: #f9c
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-3-4 {
+    background-color: #f9c
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-4-4 {
+    color: #fcc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-4-4 {
+    background-color: #fcc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-5-4 {
+    color: #ffc
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-5-4 {
+    background-color: #ffc
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-0-5 {
+    color: #f0f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-0-5 {
+    background-color: #f0f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-1-5 {
+    color: #f3f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-1-5 {
+    background-color: #f3f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-2-5 {
+    color: #f6f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-2-5 {
+    background-color: #f6f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-3-5 {
+    color: #f9f
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-3-5 {
+    background-color: #f9f
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-4-5 {
+    color: #fcf
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-4-5 {
+    background-color: #fcf
+}
+
+.rundeck .ansicolor-on .ansi-fg-rgb-5-5-5 {
+    color: #fff
+}
+
+.rundeck .ansicolor-on .ansi-bg-rgb-5-5-5 {
+    background-color: #fff
+}
+
+.rundeck .ansicolor-on .ansi-fg-light-black {
+    color: #666
+}
+
+.rundeck .ansicolor-on .ansi-fg-light-green {
+    color: #4dff4d
+}
+
+.rundeck .ansicolor-on .ansi-fg-light-red {
+    color: #fcc
+}
+
+.rundeck .ansicolor-on .ansi-fg-light-yellow {
+    color: #ffc
+}
+
+.rundeck .ansicolor-on .ansi-fg-light-blue {
+    color: #ccf
+}
+
+.rundeck .ansicolor-on .ansi-fg-light-magenta {
+    color: #fcf
+}
+
+.rundeck .ansicolor-on .ansi-fg-light-cyan {
+    color: #cff
+}
+
+.rundeck .ansicolor-on .ansi-fg-light-white {
+    color: #fff
+}
+
+.rundeck .ansicolor-on .ansi-bg-black {
+    background-color: #4d4d4d
+}
+
+.rundeck .ansicolor-on .ansi-bg-green {
+    background-color: #1aff1a
+}
+
+.rundeck .ansicolor-on .ansi-bg-red {
+    background-color: #f99
+}
+
+.rundeck .ansicolor-on .ansi-bg-yellow {
+    background-color: #ff9
+}
+
+.rundeck .ansicolor-on .ansi-bg-blue {
+    background-color: #99f
+}
+
+.rundeck .ansicolor-on .ansi-bg-magenta {
+    background-color: #f9f
+}
+
+.rundeck .ansicolor-on .ansi-bg-cyan {
+    background-color: #9ff
+}
+
+.rundeck .ansicolor-on .ansi-bg-white {
+    background-color: #fff
+}
+
+.rundeck .ansicolor-on .ansi-bg-default {
+    background-color: clear
+}
+
+.rundeck .ansicolor-on .ansi-mode-underline {
+    text-decoration: underline
+}
+
+.rundeck .ansicolor-on .ansi-mode-bold {
+    font-weight: 700
+}
+
+.rundeck .ansicolor-on .ansi-mode-blink {
+    -webkit-animation: ansi-blink .7s linear infinite alternate;
+    -webkit-font-smoothing: antialiased
+}
+
+.rundeck .ansicolor-on .ansi-mode-reverse {
+    font-style: italic
+}
+
+.rundeck .ansicolor-on .ansi-mode-nondisplayed {
+    color: grey
+}
